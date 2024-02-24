@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NITCHx
 - 👀 I’m interested in objective projects
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python , Java , Front end Web Development , Data Mining 
 - 📫 reach me on instagram - @the__nitch
 
 <!---
